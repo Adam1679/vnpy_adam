@@ -1,0 +1,14 @@
+errorTime,errorID,errorMsg,gatewayName
+09:47:36 AM,200,请求未找到证券定义,IB
+09:47:36 AM,200,请求未找到证券定义,IB
+09:47:24 AM,321,验证要求出现错误:-'bN' :导致- Please enter a valid security type,IB
+09:47:24 AM,321,验证要求出现错误:-'bH' :导致- Please enter a valid security type,IB
+09:47:24 AM,321,验证要求出现错误:-'bN' :导致- Please enter exchange,IB
+09:47:24 AM,321,验证要求出现错误:-'bH' :导致- Please enter a valid security type,IB
+09:47:24 AM,2106,历史市场数据农场连接正常:hkhmds,IB
+09:47:24 AM,2106,历史市场数据农场连接正常:ilhmds,IB
+09:47:24 AM,2104,市场数据农场连接正常:usfarm,IB
+09:47:24 AM,2104,市场数据农场连接正常:cashfarm,IB
+09:47:24 AM,2104,市场数据农场连接正常:usfuture.us,IB
+09:47:24 AM,2104,市场数据农场连接正常:usfuture,IB
+09:47:24 AM,2104,市场数据农场连接正常:hfarm,IB

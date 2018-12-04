@@ -1,0 +1,7 @@
+{
+    "host": "OkExContract",
+    "apiKey": "apiKey",
+    "secretKey": "secretKey",
+    "trace": false,
+    "leverage": 20
+}

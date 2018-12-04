@@ -1,0 +1,19 @@
+{
+    "working": true,
+
+    "tick":
+    [
+        ["WTICO_USD", "OANDA"],
+        ["sc1809", "CTP"]
+    ],
+
+    "bar":
+    [
+
+    ],
+
+    "active":
+    {
+
+    }
+}

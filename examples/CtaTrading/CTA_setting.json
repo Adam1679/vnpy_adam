@@ -1,0 +1,15 @@
+[
+    {
+        "name": "cn",
+        "className": "tick_strategy_cn",
+        "vtSymbol": "au1812"
+    }
+    ,
+    {
+        "name": "ib",
+        "className": "tick_strategy_us",
+        "vtSymbol": "USD.CNH.IDEALPRO",
+        "currency": "",
+        "productClass": "外汇"
+    }
+]

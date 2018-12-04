@@ -1,0 +1,28 @@
+version: '2'
+services:
+  redis:
+    image: "redis:alpine"
+    restart: unless-stopped
+    mem_limit: 2G
+
+  vnpy:
+    image: 'vnpy:latest'
+    restart: unless-stopped
+    mem_limit: 4G
+    volumes:
+     - ../../:/srv/vnpy
+     - $HOME/strategy_live:/srv/strategy_live
+    extra_hosts:
+     - "docker.host:172.17.0.1"
+     - "real.okex.com:47.90.109.236"
+     - "www.okex.com:47.90.110.144"
+    entrypoint: |
+      bash -c "
+      cd /srv/vnpy/vnpy/api/ctp
+      ./build.sh
+      cp -af ./build/lib/*.so .
+      cd /srv/vnpy
+      python setup.py install
+      cd /srv/strategy_live/oanda_ctp
+      python runCtaTrading.py
+      "

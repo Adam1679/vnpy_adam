@@ -1,0 +1,1489 @@
+2018-11-02 11:20:09,886  INFO: 主引擎创建成功
+2018-11-02 11:20:09,886  INFO: 注册日志事件监听
+2018-11-02 11:20:09,887  INFO: 连接1token接口
+2018-11-02 11:20:09,892  INFO: MAIN_ENGINE	接口不存在：ONETOKEN
+2018-11-02 11:20:14,891  INFO: CTA策略载入成功
+2018-11-02 11:20:14,892  INFO: CTA策略初始化成功
+2018-11-02 11:20:14,892  INFO: CTA策略启动成功
+2018-11-02 11:20:14,893  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 11:20:14,894  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 11:20:14,896  INFO: MAIN_ENGINE	数据查询失败，MongoDB没有连接
+2018-11-02 11:20:14,897  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 11:24:44,069  INFO: 主引擎创建成功
+2018-11-02 11:24:50,305  INFO: 注册日志事件监听
+2018-11-02 11:25:59,807  INFO: ONETOKEN	tick数据无data
+2018-11-02 11:26:09,823  INFO: ONETOKEN	tick数据无data
+2018-11-02 11:26:19,842  INFO: ONETOKEN	tick数据无data
+2018-11-02 11:26:29,808  INFO: ONETOKEN	tick数据无data
+2018-11-02 11:26:39,826  INFO: ONETOKEN	tick数据无data
+2018-11-02 11:26:40,189  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:26:49,819  INFO: ONETOKEN	tick数据无data
+2018-11-02 11:28:35,363  INFO: 主引擎创建成功
+2018-11-02 11:28:35,364  INFO: 注册日志事件监听
+2018-11-02 11:28:39,503  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:29:38,936  INFO: 主引擎创建成功
+2018-11-02 11:29:38,937  INFO: 注册日志事件监听
+2018-11-02 11:29:43,382  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:30:42,381  INFO: 主引擎创建成功
+2018-11-02 11:30:42,383  INFO: 注册日志事件监听
+2018-11-02 11:30:48,237  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:35:10,572  INFO: 主引擎创建成功
+2018-11-02 11:35:10,573  INFO: 注册日志事件监听
+2018-11-02 11:35:15,747  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:35:48,400  INFO: 主引擎创建成功
+2018-11-02 11:35:48,402  INFO: 注册日志事件监听
+2018-11-02 11:35:53,794  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:36:24,120  INFO: 连接1token接口
+2018-11-02 11:38:44,363  INFO: 主引擎创建成功
+2018-11-02 11:38:44,364  INFO: 注册日志事件监听
+2018-11-02 11:38:48,744  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:39:41,807  INFO: 主引擎创建成功
+2018-11-02 11:39:41,808  INFO: 注册日志事件监听
+2018-11-02 11:39:46,100  INFO: ONETOKEN	接口初始化成功
+2018-11-02 11:40:16,433  INFO: 连接1token接口
+2018-11-02 11:40:21,441  INFO: CTA策略载入成功
+2018-11-02 11:40:51,792  INFO: CTA策略初始化成功
+2018-11-02 11:40:51,793  INFO: CTA策略启动成功
+2018-11-02 11:44:48,518  INFO: 主引擎创建成功
+2018-11-02 11:44:48,519  INFO: 注册日志事件监听
+2018-11-02 13:18:27,786  INFO: 主引擎创建成功
+2018-11-02 13:18:27,790  INFO: 注册日志事件监听
+2018-11-02 13:18:32,287  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:19:02,584  INFO: 连接1token接口
+2018-11-02 13:19:07,589  INFO: CTA策略载入成功
+2018-11-02 13:20:34,223  INFO: 主引擎创建成功
+2018-11-02 13:20:34,224  INFO: 注册日志事件监听
+2018-11-02 13:20:39,091  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:21:09,336  INFO: 连接1token接口
+2018-11-02 13:21:14,338  INFO: CTA策略载入成功
+2018-11-02 13:21:25,743  INFO: 主引擎创建成功
+2018-11-02 13:21:25,743  INFO: 注册日志事件监听
+2018-11-02 13:21:30,395  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:22:08,970  INFO: 主引擎创建成功
+2018-11-02 13:22:08,971  INFO: 注册日志事件监听
+2018-11-02 13:22:13,532  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:22:31,754  INFO: 主引擎创建成功
+2018-11-02 13:22:31,755  INFO: 注册日志事件监听
+2018-11-02 13:22:37,628  INFO: 主引擎创建成功
+2018-11-02 13:22:37,629  INFO: 注册日志事件监听
+2018-11-02 13:22:42,379  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:23:12,640  INFO: 连接1token接口
+2018-11-02 13:23:17,642  INFO: CTA策略载入成功
+2018-11-02 13:23:47,991  INFO: CTA策略初始化成功
+2018-11-02 13:23:47,994  INFO: CTA策略启动成功
+2018-11-02 13:24:42,343  INFO: 主引擎创建成功
+2018-11-02 13:24:42,344  INFO: 注册日志事件监听
+2018-11-02 13:24:47,576  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:25:12,051  INFO: 主引擎创建成功
+2018-11-02 13:25:12,052  INFO: 注册日志事件监听
+2018-11-02 13:25:16,585  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:25:46,901  INFO: 连接1token接口
+2018-11-02 13:25:51,904  INFO: CTA策略载入成功
+2018-11-02 13:26:22,270  INFO: CTA策略初始化成功
+2018-11-02 13:26:22,273  INFO: CTA策略启动成功
+2018-11-02 13:29:00,826  INFO: 主引擎创建成功
+2018-11-02 13:29:00,826  INFO: 注册日志事件监听
+2018-11-02 13:29:05,697  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:29:35,931  INFO: 连接1token接口
+2018-11-02 13:29:36,015  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 13:29:40,933  INFO: CTA策略载入成功
+2018-11-02 13:29:40,949  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 13:29:40,950  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 13:30:11,252  INFO: CTA策略初始化成功
+2018-11-02 13:30:11,252  INFO: CTA策略启动成功
+2018-11-02 13:30:11,978  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 622, in callStrategyFunc
+    func()
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 161, in onInit
+    initData = self.loadBar(self.initDays)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 189, in loadBar
+    return self.ctaEngine.loadBar(self.barDbName, self.vtSymbol, days)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 402, in loadBar
+    barData = self.mainEngine.dbQuery(dbName, collectionName, d, 'datetime')
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 240, in dbQuery
+    return list(cursor)
+  File "/Users/adam/anaconda2/lib/python2.7/site-packages/pymongo/cursor.py", line 1189, in next
+    if len(self.__data) or self._refresh():
+  File "/Users/adam/anaconda2/lib/python2.7/site-packages/pymongo/cursor.py", line 1087, in _refresh
+    self.__session = self.__collection.database.client._ensure_session()
+  File "/Users/adam/anaconda2/lib/python2.7/site-packages/pymongo/mongo_client.py", line 1558, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "/Users/adam/anaconda2/lib/python2.7/site-packages/pymongo/mongo_client.py", line 1511, in __start_session
+    server_session = self._get_server_session()
+  File "/Users/adam/anaconda2/lib/python2.7/site-packages/pymongo/mongo_client.py", line 1544, in _get_server_session
+    return self._topology.get_server_session()
+  File "/Users/adam/anaconda2/lib/python2.7/site-packages/pymongo/topology.py", line 427, in get_server_session
+    None)
+  File "/Users/adam/anaconda2/lib/python2.7/site-packages/pymongo/topology.py", line 199, in _select_servers_loop
+    self._error_message(selector))
+ServerSelectionTimeoutError: localhost:27017: [Errno 61] Connection refused
+
+2018-11-02 13:32:06,711  INFO: 主引擎创建成功
+2018-11-02 13:32:06,712  INFO: 注册日志事件监听
+2018-11-02 13:32:11,314  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:32:41,563  INFO: 连接1token接口
+2018-11-02 13:32:41,814  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 13:32:46,566  INFO: CTA策略载入成功
+2018-11-02 13:32:46,566  INFO: CTA策略初始化成功
+2018-11-02 13:32:46,567  INFO: CTA策略启动成功
+2018-11-02 13:32:46,606  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 13:32:46,607  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 13:32:46,608  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 13:51:21,596  INFO: 主引擎创建成功
+2018-11-02 13:51:42,359  INFO: 注册日志事件监听
+2018-11-02 13:53:07,706  INFO: 主引擎创建成功
+2018-11-02 13:53:07,707  INFO: 注册日志事件监听
+2018-11-02 13:53:10,400  INFO: ONETOKEN	接口初始化成功
+2018-11-02 13:53:40,697  INFO: 连接1token接口
+2018-11-02 13:53:41,075  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 13:53:45,702  INFO: CTA策略载入成功
+2018-11-02 13:53:45,703  INFO: CTA策略初始化成功
+2018-11-02 13:53:45,703  INFO: CTA策略启动成功
+2018-11-02 13:53:45,752  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 13:53:45,753  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 13:53:45,753  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 14:13:40,354  INFO: 主引擎创建成功
+2018-11-02 14:13:40,355  INFO: 注册日志事件监听
+2018-11-02 14:13:42,108  INFO: ONETOKEN	接口初始化成功
+2018-11-02 14:14:12,395  INFO: 连接1token接口
+2018-11-02 14:14:12,999  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 14:14:17,398  INFO: CTA策略载入成功
+2018-11-02 14:14:17,400  INFO: CTA策略初始化成功
+2018-11-02 14:14:17,401  INFO: CTA策略启动成功
+2018-11-02 14:14:17,425  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 14:14:17,426  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 14:14:17,426  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 14:15:43,990  INFO: 主引擎创建成功
+2018-11-02 14:15:43,991  INFO: 注册日志事件监听
+2018-11-02 14:15:45,537  INFO: ONETOKEN	接口初始化成功
+2018-11-02 14:16:15,785  INFO: 连接1token接口
+2018-11-02 14:16:16,034  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 14:16:20,787  INFO: CTA策略载入成功
+2018-11-02 14:16:20,787  INFO: CTA策略初始化成功
+2018-11-02 14:16:20,788  INFO: CTA策略启动成功
+2018-11-02 14:16:20,789  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 14:16:20,789  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 14:16:20,789  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 14:30:34,538  INFO: 主引擎创建成功
+2018-11-02 14:30:34,539  INFO: 注册日志事件监听
+2018-11-02 14:30:36,542  INFO: ONETOKEN	接口初始化成功
+2018-11-02 14:31:07,912  INFO: 主引擎创建成功
+2018-11-02 14:31:07,912  INFO: 注册日志事件监听
+2018-11-02 14:31:09,337  INFO: ONETOKEN	接口初始化成功
+2018-11-02 14:31:39,624  INFO: 连接1token接口
+2018-11-02 14:31:39,968  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 14:31:47,707  INFO: 主引擎创建成功
+2018-11-02 14:31:47,709  INFO: 注册日志事件监听
+2018-11-02 14:31:49,194  INFO: ONETOKEN	接口初始化成功
+2018-11-02 14:32:19,518  INFO: 连接1token接口
+2018-11-02 14:32:19,789  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 14:35:29,444  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 14:35:44,871  INFO: CTA策略载入成功
+2018-11-02 14:35:48,462  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 14:35:49,885  INFO: CTA策略初始化成功
+2018-11-02 14:35:50,975  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 14:35:51,791  INFO: CTA策略启动成功
+2018-11-02 15:01:03,536  INFO: 主引擎创建成功
+2018-11-02 15:01:03,537  INFO: 注册日志事件监听
+2018-11-02 15:01:05,012  INFO: ONETOKEN	接口初始化成功
+2018-11-02 15:01:35,367  INFO: 连接1token接口
+2018-11-02 15:01:35,583  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 15:08:11,220  INFO: 主引擎创建成功
+2018-11-02 15:08:11,223  INFO: 注册日志事件监听
+2018-11-02 15:08:12,711  INFO: ONETOKEN	接口初始化成功
+2018-11-02 15:08:43,050  INFO: 连接1token接口
+2018-11-02 15:08:43,544  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 15:14:53,881  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 15:15:45,332  INFO: 主引擎创建成功
+2018-11-02 15:15:45,333  INFO: 注册日志事件监听
+2018-11-02 15:15:46,798  INFO: ONETOKEN	接口初始化成功
+2018-11-02 15:16:17,120  INFO: 连接1token接口
+2018-11-02 15:16:17,394  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 15:25:22,943  INFO: 主引擎创建成功
+2018-11-02 15:25:22,944  INFO: 注册日志事件监听
+2018-11-02 15:25:24,491  INFO: ONETOKEN	接口初始化成功
+2018-11-02 15:25:54,798  INFO: 连接1token接口
+2018-11-02 15:25:55,062  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 15:25:59,808  INFO: CTA策略载入成功
+2018-11-02 15:25:59,809  INFO: CTA策略初始化成功
+2018-11-02 15:25:59,812  INFO: CTA策略启动成功
+2018-11-02 15:25:59,841  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 15:25:59,843  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 15:25:59,844  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 15:27:10,824  INFO: 主引擎创建成功
+2018-11-02 15:27:10,825  INFO: 注册日志事件监听
+2018-11-02 15:27:12,309  INFO: ONETOKEN	接口初始化成功
+2018-11-02 15:27:42,665  INFO: 连接1token接口
+2018-11-02 15:27:43,038  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 15:29:19,196  INFO: 主引擎创建成功
+2018-11-02 15:29:19,198  INFO: 注册日志事件监听
+2018-11-02 15:29:20,624  INFO: ONETOKEN	接口初始化成功
+2018-11-02 15:29:50,979  INFO: 连接1token接口
+2018-11-02 15:29:51,214  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:03:38,684  INFO: 主引擎创建成功
+2018-11-02 16:03:38,685  INFO: 注册日志事件监听
+2018-11-02 16:03:43,347  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:04:13,591  INFO: 连接1token接口
+2018-11-02 16:04:13,822  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:04:18,595  INFO: CTA策略载入成功
+2018-11-02 16:04:18,596  INFO: CTA策略初始化成功
+2018-11-02 16:04:18,597  INFO: CTA策略启动成功
+2018-11-02 16:04:18,631  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:04:18,632  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:04:18,633  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:05:59,585  INFO: 主引擎创建成功
+2018-11-02 16:05:59,586  INFO: 注册日志事件监听
+2018-11-02 16:06:01,031  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:06:31,309  INFO: 连接1token接口
+2018-11-02 16:06:31,700  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:06:36,315  INFO: CTA策略载入成功
+2018-11-02 16:06:36,318  INFO: CTA策略初始化成功
+2018-11-02 16:06:36,319  INFO: CTA策略启动成功
+2018-11-02 16:06:36,357  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:06:36,358  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:06:36,359  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:10:33,559  INFO: 主引擎创建成功
+2018-11-02 16:10:33,560  INFO: 注册日志事件监听
+2018-11-02 16:10:34,951  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:11:05,235  INFO: 连接1token接口
+2018-11-02 16:11:05,759  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:11:10,242  INFO: CTA策略载入成功
+2018-11-02 16:11:10,242  INFO: CTA策略初始化成功
+2018-11-02 16:11:10,243  INFO: CTA策略启动成功
+2018-11-02 16:11:10,267  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:11:10,267  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:11:10,268  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:11:23,589  INFO: 主引擎创建成功
+2018-11-02 16:11:23,590  INFO: 注册日志事件监听
+2018-11-02 16:11:24,979  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:11:55,257  INFO: 连接1token接口
+2018-11-02 16:11:55,808  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:12:00,259  INFO: CTA策略载入成功
+2018-11-02 16:12:00,260  INFO: CTA策略初始化成功
+2018-11-02 16:12:00,260  INFO: CTA策略启动成功
+2018-11-02 16:12:05,086  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:12:05,088  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:12:05,091  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:31:10,595  INFO: 主引擎创建成功
+2018-11-02 16:31:10,596  INFO: 注册日志事件监听
+2018-11-02 16:31:12,244  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:31:42,520  INFO: 连接1token接口
+2018-11-02 16:31:42,622  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:31:47,524  INFO: CTA策略载入成功
+2018-11-02 16:31:47,526  INFO: CTA策略初始化成功
+2018-11-02 16:31:47,526  INFO: CTA策略启动成功
+2018-11-02 16:31:47,564  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:31:47,565  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:31:47,565  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:33:39,739  INFO: 主引擎创建成功
+2018-11-02 16:33:39,741  INFO: 注册日志事件监听
+2018-11-02 16:33:41,170  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:34:11,445  INFO: 连接1token接口
+2018-11-02 16:34:11,833  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:34:16,450  INFO: CTA策略载入成功
+2018-11-02 16:34:16,450  INFO: CTA策略初始化成功
+2018-11-02 16:34:16,451  INFO: CTA策略启动成功
+2018-11-02 16:34:16,459  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:34:16,460  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:34:16,460  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:37:27,027  INFO: 主引擎创建成功
+2018-11-02 16:37:27,028  INFO: 注册日志事件监听
+2018-11-02 16:37:28,774  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:37:59,073  INFO: 连接1token接口
+2018-11-02 16:38:01,754  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:38:24,798  INFO: CTA策略载入成功
+2018-11-02 16:38:24,800  INFO: CTA策略初始化成功
+2018-11-02 16:38:24,802  INFO: CTA策略启动成功
+2018-11-02 16:39:27,242  INFO: 主引擎创建成功
+2018-11-02 16:39:27,244  INFO: 注册日志事件监听
+2018-11-02 16:39:34,580  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:40:05,277  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:40:33,468  INFO: 主引擎创建成功
+2018-11-02 16:40:33,469  INFO: 注册日志事件监听
+2018-11-02 16:40:39,749  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:41:11,379  INFO: MAIN_ENGINE	MongoDB连接失败
+2018-11-02 16:44:47,140  INFO: 主引擎创建成功
+2018-11-02 16:44:47,141  INFO: 注册日志事件监听
+2018-11-02 16:44:48,640  INFO: 连接1token接口
+2018-11-02 16:44:48,676  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:44:48,773  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 16:44:53,645  INFO: CTA策略载入成功
+2018-11-02 16:44:53,646  INFO: CTA策略初始化成功
+2018-11-02 16:44:53,647  INFO: CTA策略启动成功
+2018-11-02 16:44:53,661  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:44:53,662  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:44:53,662  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:45:12,658  INFO: 主引擎创建成功
+2018-11-02 16:45:12,659  INFO: 注册日志事件监听
+2018-11-02 16:45:16,375  INFO: 连接1token接口
+2018-11-02 16:45:16,378  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:45:16,380  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 16:45:21,377  INFO: CTA策略载入成功
+2018-11-02 16:45:21,378  INFO: CTA策略初始化成功
+2018-11-02 16:45:21,379  INFO: CTA策略启动成功
+2018-11-02 16:45:21,395  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:45:21,396  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:45:21,396  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:48:08,794  INFO: 主引擎创建成功
+2018-11-02 16:48:08,795  INFO: 注册日志事件监听
+2018-11-02 16:48:12,661  INFO: 连接1token接口
+2018-11-02 16:48:12,671  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:48:12,673  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 16:48:17,664  INFO: CTA策略载入成功
+2018-11-02 16:48:17,665  INFO: CTA策略初始化成功
+2018-11-02 16:48:17,666  INFO: CTA策略启动成功
+2018-11-02 16:48:17,704  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 16:48:17,704  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:48:17,705  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:48:55,160  INFO: 主引擎创建成功
+2018-11-02 16:48:55,161  INFO: 注册日志事件监听
+2018-11-02 16:48:56,712  INFO: 连接1token接口
+2018-11-02 16:48:56,748  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:48:56,750  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 16:49:01,715  INFO: CTA策略载入成功
+2018-11-02 16:49:01,716  INFO: CTA策略初始化成功
+2018-11-02 16:49:01,716  INFO: CTA策略启动成功
+2018-11-02 16:49:01,728  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 16:49:01,729  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:49:01,729  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:50:55,174  INFO: 主引擎创建成功
+2018-11-02 16:50:55,175  INFO: 注册日志事件监听
+2018-11-02 16:51:00,326  INFO: 连接1token接口
+2018-11-02 16:51:00,347  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:51:00,350  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 16:52:21,832  INFO: 主引擎创建成功
+2018-11-02 16:52:21,833  INFO: 注册日志事件监听
+2018-11-02 16:52:23,256  INFO: 连接1token接口
+2018-11-02 16:52:23,273  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:52:23,276  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 16:52:28,259  INFO: CTA策略载入成功
+2018-11-02 16:52:28,263  INFO: CTA策略初始化成功
+2018-11-02 16:52:28,264  INFO: CTA策略启动成功
+2018-11-02 16:52:28,310  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 16:52:28,310  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 16:52:28,311  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 16:55:06,069  INFO: 主引擎创建成功
+2018-11-02 16:55:06,069  INFO: 注册日志事件监听
+2018-11-02 16:55:08,126  INFO: ONETOKEN	接口初始化成功
+2018-11-02 16:55:08,129  INFO: 连接1token接口
+2018-11-02 16:55:08,132  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:05:36,369  INFO: 主引擎创建成功
+2018-11-02 17:05:36,370  INFO: 注册日志事件监听
+2018-11-02 17:05:37,889  INFO: 连接1token接口
+2018-11-02 17:05:37,907  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:05:37,909  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:07:19,173  INFO: 主引擎创建成功
+2018-11-02 17:07:19,173  INFO: 注册日志事件监听
+2018-11-02 17:07:20,581  INFO: 连接1token接口
+2018-11-02 17:07:20,619  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:07:20,622  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:07:25,587  INFO: CTA策略载入成功
+2018-11-02 17:07:25,588  INFO: CTA策略初始化成功
+2018-11-02 17:07:25,588  INFO: CTA策略启动成功
+2018-11-02 17:07:25,602  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 17:07:25,604  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:07:25,605  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:16:33,491  INFO: 主引擎创建成功
+2018-11-02 17:16:33,492  INFO: 注册日志事件监听
+2018-11-02 17:16:35,013  INFO: 连接1token接口
+2018-11-02 17:16:35,016  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:16:35,019  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:16:56,868  INFO: CTA策略载入成功
+2018-11-02 17:16:56,869  INFO: CTA策略初始化成功
+2018-11-02 17:16:56,870  INFO: CTA策略启动成功
+2018-11-02 17:16:56,919  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 17:16:56,919  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:16:56,920  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:17:41,135  INFO: 主引擎创建成功
+2018-11-02 17:17:41,135  INFO: 注册日志事件监听
+2018-11-02 17:17:42,715  INFO: 连接1token接口
+2018-11-02 17:17:42,723  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:17:42,726  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:17:47,720  INFO: CTA策略载入成功
+2018-11-02 17:17:47,721  INFO: CTA策略初始化成功
+2018-11-02 17:17:47,722  INFO: CTA策略启动成功
+2018-11-02 17:17:47,750  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 17:17:47,750  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:17:47,751  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:21:06,278  INFO: 主引擎创建成功
+2018-11-02 17:21:06,279  INFO: 注册日志事件监听
+2018-11-02 17:21:07,721  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:21:07,729  INFO: 连接1token接口
+2018-11-02 17:21:07,731  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:21:12,733  INFO: CTA策略载入成功
+2018-11-02 17:21:12,734  INFO: CTA策略初始化成功
+2018-11-02 17:21:12,734  INFO: CTA策略启动成功
+2018-11-02 17:21:12,771  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 17:21:12,771  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:21:12,772  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:21:41,911  INFO: 主引擎创建成功
+2018-11-02 17:21:41,913  INFO: 注册日志事件监听
+2018-11-02 17:21:43,286  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:21:43,295  INFO: 连接1token接口
+2018-11-02 17:21:43,297  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:22:06,660  INFO: 主引擎创建成功
+2018-11-02 17:22:06,660  INFO: 注册日志事件监听
+2018-11-02 17:22:08,233  INFO: 连接1token接口
+2018-11-02 17:22:08,251  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:22:08,254  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:22:46,564  INFO: 主引擎创建成功
+2018-11-02 17:22:46,565  INFO: 注册日志事件监听
+2018-11-02 17:22:49,424  INFO: 连接1token接口
+2018-11-02 17:22:49,430  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:22:49,432  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:22:54,427  INFO: CTA策略载入成功
+2018-11-02 17:22:54,428  INFO: CTA策略初始化成功
+2018-11-02 17:22:54,429  INFO: CTA策略启动成功
+2018-11-02 17:22:54,442  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 17:22:54,442  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:22:54,443  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:23:30,954  INFO: 主引擎创建成功
+2018-11-02 17:23:30,954  INFO: 注册日志事件监听
+2018-11-02 17:23:39,368  INFO: 连接1token接口
+2018-11-02 17:23:39,404  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:23:39,407  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:23:48,296  INFO: CTA策略载入成功
+2018-11-02 17:23:48,300  INFO: CTA策略初始化成功
+2018-11-02 17:23:48,301  INFO: CTA策略启动成功
+2018-11-02 17:23:48,984  INFO: CTA_STRATEGY	1token的交易合约btc.usdt.huobip无法找到
+2018-11-02 17:23:48,985  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:23:48,985  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:27:12,908  INFO: 主引擎创建成功
+2018-11-02 17:27:12,909  INFO: 注册日志事件监听
+2018-11-02 17:27:14,410  INFO: 连接1token接口
+2018-11-02 17:27:14,442  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:27:14,445  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:27:19,415  INFO: CTA策略载入成功
+2018-11-02 17:27:19,415  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 17:27:19,416  INFO: CTA策略初始化成功
+2018-11-02 17:27:19,417  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:27:19,418  INFO: CTA策略启动成功
+2018-11-02 17:27:19,419  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:28:20,318  INFO: 主引擎创建成功
+2018-11-02 17:28:20,318  INFO: 注册日志事件监听
+2018-11-02 17:28:22,343  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:28:22,350  INFO: 连接1token接口
+2018-11-02 17:28:22,352  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:28:27,355  INFO: CTA策略载入成功
+2018-11-02 17:28:27,356  INFO: CTA策略初始化成功
+2018-11-02 17:28:27,357  INFO: CTA策略启动成功
+2018-11-02 17:28:27,369  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 17:28:27,369  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:28:27,370  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:29:21,042  INFO: 主引擎创建成功
+2018-11-02 17:29:21,043  INFO: 注册日志事件监听
+2018-11-02 17:29:22,413  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:29:22,425  INFO: 连接1token接口
+2018-11-02 17:29:22,427  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:29:27,431  INFO: CTA策略载入成功
+2018-11-02 17:29:27,432  INFO: CTA策略初始化成功
+2018-11-02 17:29:27,432  INFO: CTA策略启动成功
+2018-11-02 17:29:27,437  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 17:29:27,438  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:29:27,439  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:30:44,214  INFO: 主引擎创建成功
+2018-11-02 17:30:44,215  INFO: 注册日志事件监听
+2018-11-02 17:30:45,653  INFO: 连接1token接口
+2018-11-02 17:30:45,653  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:30:45,656  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:30:50,655  INFO: CTA策略载入成功
+2018-11-02 17:30:50,655  INFO: CTA策略初始化成功
+2018-11-02 17:30:50,656  INFO: CTA策略启动成功
+2018-11-02 17:30:50,702  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 17:30:50,703  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:30:50,703  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:30:51,096  INFO: CTA_STRATEGY	Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 314, in processTickEvent
+    tick.datetime = datetime.strptime(' '.join([tick.date, tick.time]), '%Y%m%d %H:%M:%S.%f')
+  File "/Users/adam/anaconda2/lib/python2.7/_strptime.py", line 332, in _strptime
+    (data_string, format))
+ValueError: time data '2018-11-02 17:30:50.019000' does not match format '%Y%m%d %H:%M:%S.%f'
+
+2018-11-02 17:30:52,439  INFO: CTA_STRATEGY	Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 314, in processTickEvent
+    tick.datetime = datetime.strptime(' '.join([tick.date, tick.time]), '%Y%m%d %H:%M:%S.%f')
+  File "/Users/adam/anaconda2/lib/python2.7/_strptime.py", line 332, in _strptime
+    (data_string, format))
+ValueError: time data '2018-11-02 17:30:51.020000' does not match format '%Y%m%d %H:%M:%S.%f'
+
+2018-11-02 17:30:52,439  INFO: CTA_STRATEGY	Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 314, in processTickEvent
+    tick.datetime = datetime.strptime(' '.join([tick.date, tick.time]), '%Y%m%d %H:%M:%S.%f')
+  File "/Users/adam/anaconda2/lib/python2.7/_strptime.py", line 332, in _strptime
+    (data_string, format))
+ValueError: time data '2018-11-02 17:30:51.021000' does not match format '%Y%m%d %H:%M:%S.%f'
+
+2018-11-02 17:30:52,889  INFO: CTA_STRATEGY	Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 314, in processTickEvent
+    tick.datetime = datetime.strptime(' '.join([tick.date, tick.time]), '%Y%m%d %H:%M:%S.%f')
+  File "/Users/adam/anaconda2/lib/python2.7/_strptime.py", line 332, in _strptime
+    (data_string, format))
+ValueError: time data '2018-11-02 17:30:52.019000' does not match format '%Y%m%d %H:%M:%S.%f'
+
+2018-11-02 17:30:53,396  INFO: CTA_STRATEGY	Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 314, in processTickEvent
+    tick.datetime = datetime.strptime(' '.join([tick.date, tick.time]), '%Y%m%d %H:%M:%S.%f')
+  File "/Users/adam/anaconda2/lib/python2.7/_strptime.py", line 332, in _strptime
+    (data_string, format))
+ValueError: time data '2018-11-02 17:30:53.019000' does not match format '%Y%m%d %H:%M:%S.%f'
+
+2018-11-02 17:33:19,637  INFO: 主引擎创建成功
+2018-11-02 17:33:19,638  INFO: 注册日志事件监听
+2018-11-02 17:33:21,193  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:33:21,202  INFO: 连接1token接口
+2018-11-02 17:33:21,202  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:33:26,203  INFO: CTA策略载入成功
+2018-11-02 17:33:26,204  INFO: CTA策略初始化成功
+2018-11-02 17:33:26,205  INFO: CTA策略启动成功
+2018-11-02 17:33:26,245  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 17:33:26,246  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:33:26,246  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-02 17:34:34,590  INFO: 主引擎创建成功
+2018-11-02 17:34:34,591  INFO: 注册日志事件监听
+2018-11-02 17:34:36,038  INFO: 连接1token接口
+2018-11-02 17:34:36,069  INFO: ONETOKEN	接口初始化成功
+2018-11-02 17:34:36,072  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-02 17:34:41,041  INFO: CTA策略载入成功
+2018-11-02 17:34:41,042  INFO: CTA策略初始化成功
+2018-11-02 17:34:41,043  INFO: CTA策略启动成功
+2018-11-02 17:34:41,053  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-02 17:34:41,054  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-02 17:34:41,055  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 13:45:43,524  INFO: 主引擎创建成功
+2018-11-03 13:45:43,526  INFO: 注册日志事件监听
+2018-11-03 13:45:45,134  INFO: ONETOKEN	接口初始化成功
+2018-11-03 13:46:12,655  INFO: 主引擎创建成功
+2018-11-03 13:46:12,657  INFO: 注册日志事件监听
+2018-11-03 13:46:15,033  INFO: ONETOKEN	接口初始化成功
+2018-11-03 13:46:15,050  INFO: 连接1token接口
+2018-11-03 13:46:15,055  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 13:46:20,055  INFO: CTA策略载入成功
+2018-11-03 13:46:20,057  INFO: CTA策略初始化成功
+2018-11-03 13:46:20,058  INFO: CTA策略启动成功
+2018-11-03 13:46:20,104  INFO: CTA_STRATEGY	1token的交易合约huobip/btc.usdt无法找到
+2018-11-03 13:46:20,105  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 13:46:20,106  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:03:23,847  INFO: 主引擎创建成功
+2018-11-03 14:03:23,848  INFO: 注册日志事件监听
+2018-11-03 14:03:25,425  INFO: 连接1token接口
+2018-11-03 14:03:25,439  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:03:25,441  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:07:02,498  INFO: 主引擎创建成功
+2018-11-03 14:07:02,499  INFO: 注册日志事件监听
+2018-11-03 14:07:04,071  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:07:04,099  INFO: 连接1token接口
+2018-11-03 14:07:04,103  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:07:09,110  INFO: CTA策略载入成功
+2018-11-03 14:07:09,111  INFO: CTA策略初始化成功
+2018-11-03 14:07:09,112  INFO: CTA策略启动成功
+2018-11-03 14:07:09,141  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 14:07:09,141  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:07:58,071  INFO: 主引擎创建成功
+2018-11-03 14:07:58,072  INFO: 注册日志事件监听
+2018-11-03 14:07:59,679  INFO: 连接1token接口
+2018-11-03 14:07:59,702  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:07:59,704  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:08:35,747  INFO: CTA策略载入成功
+2018-11-03 14:08:35,751  INFO: CTA策略初始化成功
+2018-11-03 14:08:35,752  INFO: CTA策略启动成功
+2018-11-03 14:09:05,538  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 14:09:05,540  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:37:40,493  INFO: 主引擎创建成功
+2018-11-03 14:37:40,494  INFO: 注册日志事件监听
+2018-11-03 14:37:42,928  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:37:42,931  INFO: 连接1token接口
+2018-11-03 14:37:42,933  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:37:51,974  INFO: CTA策略载入成功
+2018-11-03 14:37:51,977  INFO: CTA策略初始化成功
+2018-11-03 14:37:51,978  INFO: CTA策略启动成功
+2018-11-03 14:37:52,727  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 14:37:52,730  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:38:01,713  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:01,714  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:01,715  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:01,716  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:01,717  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,725  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,726  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,726  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,729  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,731  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,732  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,733  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,733  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,734  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,740  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,741  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:02,742  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:03,441  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:03,442  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:05,161  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:05,164  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:05,165  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:05,451  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:06,493  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:07,541  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:08,411  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:08,421  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:09,505  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:09,506  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:10,769  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:10,769  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:11,376  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:11,386  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:13,696  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:13,696  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:13,706  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:14,409  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:15,441  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:16,556  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:17,328  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:18,299  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:19,599  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:19,600  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:38:20,455  INFO: CTA_STRATEGY	策略1token触发异常已停止
+Traceback (most recent call last):
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 621, in callStrategyFunc
+    func(params)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/strategy/strategy1tokenTest_adam.py", line 236, in onTick
+    self.buy(tick.lastPrice, 1)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 111, in buy
+    return self.sendOrder(CTAORDER_BUY, price, volume, stop)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaTemplate.py", line 147, in sendOrder
+    vtOrderIDList = self.ctaEngine.sendOrder(self.vtSymbol, orderType, price, volume, self)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/app/ctaStrategy/ctaEngine.py", line 156, in sendOrder
+    vtOrderID = self.mainEngine.sendOrder(convertedReq, contract.gatewayName)    # 发单
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/vtEngine.py", line 139, in sendOrder
+    vtOrderID = gateway.sendOrder(orderReq)
+  File "/Users/adam/Desktop/intern/崇蠡投资管理公司/vnpy_ontoken/vnpy/vnpy/trader/gateway/onetokenGateway/onetokenGateway.py", line 87, in sendOrder
+    return self.api.futureSendOrder(orderReq)
+AttributeError: 'Api' object has no attribute 'futureSendOrder'
+
+2018-11-03 14:40:43,358  INFO: 主引擎创建成功
+2018-11-03 14:40:43,359  INFO: 注册日志事件监听
+2018-11-03 14:40:45,050  INFO: 连接1token接口
+2018-11-03 14:40:45,089  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:40:45,091  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:40:50,055  INFO: CTA策略载入成功
+2018-11-03 14:40:50,058  INFO: CTA策略初始化成功
+2018-11-03 14:40:50,059  INFO: CTA策略启动成功
+2018-11-03 14:40:50,106  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 14:40:50,107  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:41:44,432  INFO: 主引擎创建成功
+2018-11-03 14:41:44,433  INFO: 注册日志事件监听
+2018-11-03 14:41:46,168  INFO: 连接1token接口
+2018-11-03 14:41:46,169  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:41:46,171  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:41:51,173  INFO: CTA策略载入成功
+2018-11-03 14:41:51,174  INFO: CTA策略初始化成功
+2018-11-03 14:41:51,175  INFO: CTA策略启动成功
+2018-11-03 14:41:51,211  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 14:41:51,211  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:47:13,584  INFO: 主引擎创建成功
+2018-11-03 14:47:13,585  INFO: 注册日志事件监听
+2018-11-03 14:47:15,097  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:47:15,101  INFO: 连接1token接口
+2018-11-03 14:47:15,106  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:47:20,109  INFO: CTA策略载入成功
+2018-11-03 14:47:20,112  INFO: CTA策略初始化成功
+2018-11-03 14:47:20,115  INFO: CTA策略启动成功
+2018-11-03 14:47:20,128  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 14:47:20,129  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:55:17,751  INFO: 主引擎创建成功
+2018-11-03 14:55:17,751  INFO: 注册日志事件监听
+2018-11-03 14:55:19,156  INFO: 连接1token接口
+2018-11-03 14:55:19,190  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:55:19,192  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:55:24,161  INFO: CTA策略载入成功
+2018-11-03 14:55:24,162  INFO: CTA策略初始化成功
+2018-11-03 14:55:24,163  INFO: CTA策略启动成功
+2018-11-03 14:55:24,199  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 14:55:24,199  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 14:55:24,599  INFO: CTA_STRATEGY	策略1token发送委托，huobip/btc.usdt，做多，1@6414.3
+2018-11-03 14:56:14,099  INFO: 主引擎创建成功
+2018-11-03 14:56:14,100  INFO: 注册日志事件监听
+2018-11-03 14:56:16,683  INFO: 连接1token接口
+2018-11-03 14:56:16,703  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:56:16,705  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:56:21,686  INFO: CTA策略载入成功
+2018-11-03 14:56:21,687  INFO: CTA策略初始化成功
+2018-11-03 14:56:21,688  INFO: CTA策略启动成功
+2018-11-03 14:57:27,336  INFO: 主引擎创建成功
+2018-11-03 14:57:27,337  INFO: 注册日志事件监听
+2018-11-03 14:57:31,611  INFO: ONETOKEN	接口初始化成功
+2018-11-03 14:57:31,622  INFO: 连接1token接口
+2018-11-03 14:57:31,630  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 14:57:36,627  INFO: CTA策略载入成功
+2018-11-03 14:57:36,629  INFO: CTA策略初始化成功
+2018-11-03 14:57:36,630  INFO: CTA策略启动成功
+2018-11-03 15:00:23,083  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 15:00:23,085  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 15:02:07,751  INFO: 主引擎创建成功
+2018-11-03 15:02:07,753  INFO: 注册日志事件监听
+2018-11-03 15:02:12,394  INFO: 连接1token接口
+2018-11-03 15:02:12,413  INFO: ONETOKEN	接口初始化成功
+2018-11-03 15:02:12,415  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 15:02:17,402  INFO: CTA策略载入成功
+2018-11-03 15:02:17,404  INFO: CTA策略初始化成功
+2018-11-03 15:02:17,405  INFO: CTA策略启动成功
+2018-11-03 15:02:17,453  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 15:02:17,454  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 15:02:20,428  INFO: CTA_STRATEGY	策略1token发送委托，huobip/btc.usdt，做多，1@6415.0
+2018-11-03 15:03:34,349  INFO: 主引擎创建成功
+2018-11-03 15:03:34,349  INFO: 注册日志事件监听
+2018-11-03 15:03:35,786  INFO: 连接1token接口
+2018-11-03 15:03:35,796  INFO: ONETOKEN	接口初始化成功
+2018-11-03 15:03:35,798  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 15:03:40,789  INFO: CTA策略载入成功
+2018-11-03 15:03:40,790  INFO: CTA策略初始化成功
+2018-11-03 15:03:40,791  INFO: CTA策略启动成功
+2018-11-03 15:12:25,223  INFO: 主引擎创建成功
+2018-11-03 15:12:25,224  INFO: 注册日志事件监听
+2018-11-03 15:12:27,006  INFO: 连接1token接口
+2018-11-03 15:12:27,011  INFO: ONETOKEN	接口初始化成功
+2018-11-03 15:12:27,014  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 15:12:32,010  INFO: CTA策略载入成功
+2018-11-03 15:12:32,011  INFO: CTA策略初始化成功
+2018-11-03 15:12:32,012  INFO: CTA策略启动成功
+2018-11-03 15:12:37,041  INFO: CTA_STRATEGY	1token:1token策略初始化
+2018-11-03 15:12:37,041  INFO: CTA_STRATEGY	1token:1token策略启动
+2018-11-03 15:13:35,671  INFO: 主引擎创建成功
+2018-11-03 15:13:35,672  INFO: 注册日志事件监听
+2018-11-03 15:13:39,806  INFO: ONETOKEN	接口初始化成功
+2018-11-03 15:13:39,811  INFO: 连接1token接口
+2018-11-03 15:13:39,816  INFO: MAIN_ENGINE	MongoDB连接成功
+2018-11-03 15:13:44,814  INFO: CTA策略载入成功
+2018-11-03 15:13:44,815  INFO: CTA策略初始化成功
+2018-11-03 15:13:44,816  INFO: CTA策略启动成功

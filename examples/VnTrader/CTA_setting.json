@@ -1,0 +1,13 @@
+[
+    {
+<<<<<<< HEAD
+        "name": "1token",
+        "className": "onetokenGatewayTestStrategy",
+        "vtSymbol": "huobip/btc.usdt"
+=======
+        "name": "ib",
+        "className": "ibGatewayTestStrategy",
+        "vtSymbol": "CLX8.NYMEX"
+>>>>>>> 4c6f0537e25f1029e78564ef3235d7c39171032f
+    }
+]

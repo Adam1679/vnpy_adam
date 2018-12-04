@@ -1,0 +1,21 @@
+version: '2'
+services:
+
+
+  vnpy:
+    image: 'vnpy:latest'
+    restart: unless-stopped
+    mem_limit: 4G
+    volumes:
+     - ../../:/srv/vnpy
+     - $HOME/strategy_live:/srv/strategy_live
+    extra_hosts:
+     - "docker.host:172.17.0.1"
+     - "real.okex.com:47.90.109.236"
+     - "www.okex.com:47.90.110.144"
+    entrypoint: |
+      bash -c "
+      python setup.py install
+      cd /srv/strategy_live/DataRecording
+      python runDataRecording.py
+      "
